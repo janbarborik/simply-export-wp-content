@@ -1,4 +1,4 @@
-# Simply Export Your WordPress Content
+# Simply Export Your WordPress Content Plugin
 
 A lightweight WordPress plugin that exports your published content — pages, posts, and custom post types — into clean **RTF** or **Markdown** files. All shortcodes, HTML tags, images, and iframes are stripped automatically, leaving you with pure, readable text.
 
